@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\bin\Debug\lab9vu.exe.config
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\bin\Debug\lab9vu.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\bin\Debug\lab9vu.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\obj\Debug\lab9vu.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\obj\Debug\lab9vu.Form1.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\obj\Debug\lab9vu.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\obj\Debug\lab9vu.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\obj\Debug\lab9vu.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\obj\Debug\lab9vu.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab9\lab9vu\lab9vu\obj\Debug\lab9vu.pdb
